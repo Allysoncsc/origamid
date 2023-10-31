@@ -1,4 +1,7 @@
-
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 a{
     color: black;
@@ -12,8 +15,27 @@ a{
 }
 
 /* . = classe no html */
-.teste{
+.anuncio{
+    background-color: #111;
+    color: #fff;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 4px;
 
+}
+
+span{
+    color: #febe01;
+}
+p{ color: #b2b2b2;}
+
+a{
+    display: inline-block;
+    background-color: #febe01;
+    color: #332200;
+    padding: 10px;
+    border-radius: 4px;
+    text-transform: none;
 }
 
 /* se usar virgula = elementos diferentes */
